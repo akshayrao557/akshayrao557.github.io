@@ -1605,13 +1605,13 @@ header .logo a {
 .intro-info img {
 	height: 9rem;
 	width: 9rem;
-	border-radius: 50%;
+	/* border-radius: 50%; */
 	margin: .9rem 0 0 0;
 	float: left;
 }
 .intro-info .lead {
 	text-align: justify;
-	padding-left: 13rem;
+	/* padding-left: 13rem; */
 }
 
 .about-content {
